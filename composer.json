@@ -1,5 +1,5 @@
 {
-    "name": "illuminate/database",
+    "name": "pdffiller/database",
     "description": "The Illuminate Database package.",
     "license": "MIT",
     "homepage": "http://laravel.com",
@@ -39,5 +39,5 @@
         "illuminate/filesystem": "Required to use the migrations (5.1.*).",
         "illuminate/pagination": "Required to paginate the result set (5.1.*)."
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
