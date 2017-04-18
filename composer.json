@@ -1,5 +1,5 @@
 {
-    "name": "pdffiller/database",
+    "name": "illuminate/database",
     "description": "The Illuminate Database package.",
     "license": "MIT",
     "homepage": "http://laravel.com",
@@ -28,7 +28,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "5.1"
+            "dev-master": "5.1-dev"
         }
     },
     "suggest": {
